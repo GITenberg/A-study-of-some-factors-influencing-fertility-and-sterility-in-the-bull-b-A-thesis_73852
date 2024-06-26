@@ -1,0 +1,29 @@
+_repo: A-study-of-some-factors-influencing-fertility-and-sterility-in-the-bull-b-A-thesis_73852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilman, Herbert Lester
+    gutenberg_agent_id: '57251'
+    url: http://www.gutenberg.org/2009/agents/57251
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73852'
+language: en
+pgterms:marc904: https://archive.org/details/studyofsomefacto00gilm/page/n3/mode/2up
+pgterms:marc905: 20200723162109gilmandvmm
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aAlbany :$bJ. B. Lyon Company, Printers, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A study of some factors influencing fertility and sterility in the bull :
+  $b A thesis'
+url: http://www.gutenberg.org/ebooks/73852
