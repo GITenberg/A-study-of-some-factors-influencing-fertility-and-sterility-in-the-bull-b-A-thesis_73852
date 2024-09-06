@@ -1,11 +1,16 @@
 _repo: A-study-of-some-factors-influencing-fertility-and-sterility-in-the-bull-b-A-thesis_73852
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73852-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilman, Herbert Lester
     gutenberg_agent_id: '57251'
     url: http://www.gutenberg.org/2009/agents/57251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73852#A-study-of-some-factors-influencing-fertility-and-sterility-in-the-bull-b-A-thesis
 gutenberg_issued: '2024-06-17'
 gutenberg_type: Text
 identifiers:
